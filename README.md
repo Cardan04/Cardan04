@@ -6,7 +6,18 @@
 
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.cdmm.com.br) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-daniel-matias-6b92b6124/)
 
-Sou Carlos Daniel Engenheiro de dados gosto de tecnologia trabalho com TI a mais de 10 anos 
+
+ 🔹 Trabalho com **TI há mais de 10 anos**, com experiência em infraestrutura, integração e dados  
+ 🔹 Tenho forte interesse em **Inteligência Artificial**, **DataOps** e **Automação de Processos (RPA)**  
+ 🔹 Gosto de criar projetos práticos, como:
+  - Modelos de previsão (ex: Titanic Prediction)
+  - Webapps em **FastAPI / Streamlit**
+  - Automação com **Python + Azure + APIs**
+    
+Atualmente, trabalho criando soluções que transformam dados em decisões com foco em **pipelines eficientes, nuvem (Azure)** e uso de **Python** para automações inteligentes.  
+
+
+---
 
 
 ## Tecnologias que uso no meu dia 
