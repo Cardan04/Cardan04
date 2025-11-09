@@ -36,3 +36,11 @@ Atualmente, trabalho criando soluções que transformam dados em decisões com f
 
 
 ![Cardan GitHub stats](https://github-readme-stats.vercel.app/api?username=Cardan04&show_icons=true&theme=dark)
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
